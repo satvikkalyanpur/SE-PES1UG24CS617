@@ -3,7 +3,6 @@
 **Problem Statement #12 — Healthcare & Telemedicine**
 **Blood Bank Inventory & Emergency Donor Matcher**
 
-PES University · Dept. of Computer Science & Engineering
 
 | | |
 |---|---|
