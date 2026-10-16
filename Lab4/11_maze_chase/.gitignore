@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+# Python virtual environments
+venv/
+.venv/
+**/venv/
+**/.venv/
+
+# Python generated files
+__pycache__/
+*.py[cod]
