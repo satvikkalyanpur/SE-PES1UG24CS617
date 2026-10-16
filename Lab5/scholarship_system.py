@@ -94,7 +94,8 @@ class ScholarshipScreener:
         return score
 
     def evaluate_applicant(self, student_id, test_scores, logs=None):
-        """Validate and evaluate an applicant, storing the resulting decision."""
+        """Validate and evaluate an applicant,
+storing the resulting decision."""
         if logs is None:
             logs = []
 
